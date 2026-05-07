@@ -1,0 +1,8 @@
+[
+  {"id":"L3-SEC","libelle":"Securite Informatique","promotion":"L3","effectif":45},
+  {"id":"L3-GL","libelle":"Ingenierie Logiciel","promotion":"L3","effectif":50},
+  {"id":"L3-DATA","libelle":"Data Sciences","promotion":"L3","effectif":35},
+  {"id":"L4-ROB","libelle":"Robotique","promotion":"L4","effectif":30},
+  {"id":"L4-EMB","libelle":"Systemes Embarques","promotion":"L4","effectif":32},
+  {"id":"L4-MGT","libelle":"Management et Marketing IT","promotion":"L4","effectif":43}
+]

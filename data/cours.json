@@ -1,0 +1,14 @@
+[
+  {"id":"L1-ALG","intitule":"Algorithmique","volume":4,"type":"tronc","groupe":"L1"},
+  {"id":"L1-WEB","intitule":"Introduction au Web","volume":4,"type":"tronc","groupe":"L1"},
+  {"id":"L2-BDD","intitule":"Bases de donnees","volume":4,"type":"tronc","groupe":"L2"},
+  {"id":"L2-RES","intitule":"Reseaux informatiques","volume":4,"type":"tronc","groupe":"L2"},
+  {"id":"L3-SE","intitule":"Systemes d'exploitation","volume":4,"type":"tronc","groupe":"L3"},
+  {"id":"L3-SEC1","intitule":"Cryptographie appliquee","volume":4,"type":"option","groupe":"L3-SEC"},
+  {"id":"L3-GL1","intitule":"Genie logiciel avance","volume":4,"type":"option","groupe":"L3-GL"},
+  {"id":"L3-DATA1","intitule":"Apprentissage statistique","volume":4,"type":"option","groupe":"L3-DATA"},
+  {"id":"L4-PROJ","intitule":"Gestion de projet informatique","volume":4,"type":"tronc","groupe":"L4"},
+  {"id":"L4-ROB1","intitule":"Robotique mobile","volume":4,"type":"option","groupe":"L4-ROB"},
+  {"id":"L4-EMB1","intitule":"Systemes embarques","volume":4,"type":"option","groupe":"L4-EMB"},
+  {"id":"L4-MGT1","intitule":"Marketing numerique","volume":4,"type":"option","groupe":"L4-MGT"}
+]

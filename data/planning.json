@@ -1,0 +1,134 @@
+[
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "creneau": "Lundi_08:00_12:00",
+        "id_salle": "AUD-L1",
+        "code_cours": "L1-ALG",
+        "intitule": "Algorithmique",
+        "id_groupe": "L1",
+        "effectif": 210
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "creneau": "Lundi_13:00_17:00",
+        "id_salle": "AUD-L1",
+        "code_cours": "L1-WEB",
+        "intitule": "Introduction au Web",
+        "id_groupe": "L1",
+        "effectif": 210
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "creneau": "Lundi_08:00_12:00",
+        "id_salle": "AUD-L2",
+        "code_cours": "L2-BDD",
+        "intitule": "Bases de donnees",
+        "id_groupe": "L2",
+        "effectif": 165
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "creneau": "Lundi_13:00_17:00",
+        "id_salle": "AUD-L2",
+        "code_cours": "L2-RES",
+        "intitule": "Reseaux informatiques",
+        "id_groupe": "L2",
+        "effectif": 165
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "creneau": "Lundi_08:00_12:00",
+        "id_salle": "AUD-L3",
+        "code_cours": "L3-SE",
+        "intitule": "Systemes d'exploitation",
+        "id_groupe": "L3",
+        "effectif": 130
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "creneau": "Lundi_08:00_12:00",
+        "id_salle": "AUD-L4",
+        "code_cours": "L4-PROJ",
+        "intitule": "Gestion de projet informatique",
+        "id_groupe": "L4",
+        "effectif": 105
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "creneau": "Lundi_08:00_12:00",
+        "id_salle": "SALLE-MACH",
+        "code_cours": "L3-GL1",
+        "intitule": "Genie logiciel avance",
+        "id_groupe": "L3-GL",
+        "effectif": 50
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "creneau": "Lundi_08:00_12:00",
+        "id_salle": "SALLE-MGT",
+        "code_cours": "L3-SEC1",
+        "intitule": "Cryptographie appliquee",
+        "id_groupe": "L3-SEC",
+        "effectif": 45
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "creneau": "Lundi_13:00_17:00",
+        "id_salle": "SALLE-MACH",
+        "code_cours": "L4-MGT1",
+        "intitule": "Marketing numerique",
+        "id_groupe": "L4-MGT",
+        "effectif": 43
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "creneau": "Lundi_13:00_17:00",
+        "id_salle": "SALLE-MGT",
+        "code_cours": "L3-DATA1",
+        "intitule": "Apprentissage statistique",
+        "id_groupe": "L3-DATA",
+        "effectif": 35
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "creneau": "Lundi_13:00_17:00",
+        "id_salle": "AUD-L4",
+        "code_cours": "L4-EMB1",
+        "intitule": "Systemes embarques",
+        "id_groupe": "L4-EMB",
+        "effectif": 32
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "creneau": "Lundi_13:00_17:00",
+        "id_salle": "AUD-L3",
+        "code_cours": "L4-ROB1",
+        "intitule": "Robotique mobile",
+        "id_groupe": "L4-ROB",
+        "effectif": 30
+    }
+]

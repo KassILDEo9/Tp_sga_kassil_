@@ -1,0 +1,7 @@
+Salle;Occupes;Libres;Taux
+AUD-L1;2;8;20%
+AUD-L2;2;8;20%
+AUD-L3;2;8;20%
+AUD-L4;2;8;20%
+SALLE-MACH;2;8;20%
+SALLE-MGT;2;8;20%
